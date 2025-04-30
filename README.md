@@ -1,5 +1,5 @@
 ![alt](https://tsukinio.nekoweb.org/images/graphic-6.png)
-## Hello! ![alt](https://tsukinio.nekoweb.org/images/graphic-1.gif)
+## Hello! ![alt](https://tsukinio.nekoweb.org/images/spinning-star.gif)
 **My name is Tsukinio**, here are few things about me!
 
 -  I’m currently learning web dev (HTML & CSS)
