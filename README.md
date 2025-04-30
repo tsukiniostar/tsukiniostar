@@ -1,16 +1,12 @@
-## Hi there 👋
+![alt](https://tsukinio.nekoweb.org/images/graphic-6.png)
+## Hello! ![alt](https://tsukinio.nekoweb.org/images/graphic-1.gif)
+**My name is Tsukinio**, here are few things about me!
 
-<!--
-**tsukiniostar/tsukiniostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt](https://tsukinio.nekoweb.org/images/graphic-4.gif)
+-  I’m currently learning web dev (HTML & CSS)
+- How to reach me: 
+[Discord](https://discordid.netlify.app/?id=820205937582669844)
+[Email](mailto:tsubasamoomin@gmail.com)
+[My site](https://tsukinio.nekoweb.org/)
+- Pronouns: preferable she/her
+- Fun fact: I love chiikawa and kabutomushi ![alt](https://tsukinio.nekoweb.org/images/graphic-2.png)
