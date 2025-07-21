@@ -1,5 +1,5 @@
-![alt](https://tsukinio.nekoweb.org/images/graphic-6.png)
-## Hello! ![alt](https://tsukinio.nekoweb.org/images/spinning-star.gif)
+![alt](https://i.pinimg.com/736x/78/b7/ad/78b7add98f2cd3353b6853b32d79d7ef.jpg)
+## Hello! 
 **My name is Tsukinio**, here are few things about me!
 
 -  I’m a webmaster! (HTML & CSS is my specialty)
@@ -8,4 +8,4 @@
 [Email](mailto:tsubasamoomin@gmail.com)
 [My site](https://tsukinio.nekoweb.org/)
 - Pronouns: preferable she/her
-- Fun fact: I love chiikawa and kabutomushi ![alt](https://tsukinio.nekoweb.org/images/graphic-2.png)
+- Fun fact: I love chiikawa and kabutomushi 
