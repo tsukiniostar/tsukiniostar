@@ -1,11 +1,12 @@
-![alt](https://i.pinimg.com/736x/78/b7/ad/78b7add98f2cd3353b6853b32d79d7ef.jpg)
-## Hello! 
-**My name is Tsukinio**, here are few things about me!
-
--  I’m a webmaster! (HTML & CSS is my specialty)
-- How to reach me: 
-[Discord](https://discordid.netlify.app/?id=820205937582669844)
-[Email](mailto:tsubasamoomin@gmail.com)
-[My site](https://tsukinio.nekoweb.org/)
-- Pronouns: preferable she/her
-- Fun fact: I love chiikawa and kabutomushi 
+<p><img src="https://i.pinimg.com/1200x/f1/f2/fd/f1f2fd6b26a4bb44093d2b8d377b506c.jpg" width="350" alt="alt"></p>
+<h2>Hello!</h2>
+<p><strong>My name is Tsukinio</strong>, here are few things about me!</p>
+<ul>
+<li>I’m a webmaster! (HTML & CSS is my specialty)</li>
+<li>How to reach me: <br />
+<a href="https://discordid.netlify.app/?id=820205937582669844">Discord</a><br />
+<a href="mailto:tsubasamoomin@gmail.com">Email</a><br />
+<a href="https://tsukinio.nekoweb.org/">My site</a></li>
+<li>Pronouns: preferable she/her</li>
+<li>Fun fact: I love chiikawa and kabutomushi </li>
+</ul>
