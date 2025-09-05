@@ -3,7 +3,7 @@
 <p><strong>My name is Flora</strong>, here are few things about me!</p>
 <ul>
 <li>I’m a webmaster! (HTML & CSS is my specialty)</li>
-<li>How to reach me: <a href="https://discordid.netlify.app/?id=820205937582669844">Discord</a> | <a href="mailto:tsubasamoomin@gmail.com">Email</a> | <a href="https://tsukinio.nekoweb.org/">My site</a></li>
+<li>How to reach me: <a href="mailto:tsubasamoomin@gmail.com">Email</a></li>
 <li>Pronouns: preferable she/her</li>
 <li>Fun fact: I love chiikawa and kabutomushi </li>
 </ul>
